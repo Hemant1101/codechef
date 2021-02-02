@@ -1,3 +1,7 @@
+// author:Hemant1101
+// lang: C
+// topic:Codechef problems ( file name is the problem code )
+
 #include <stdio.h>
 
 void swap(int *a, int *b)
