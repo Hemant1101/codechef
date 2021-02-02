@@ -1,3 +1,8 @@
+// author:Hemant1101
+// lang: C++
+// topic: codechef problem ( file name is the problem code )
+
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
